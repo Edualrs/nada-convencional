@@ -1,0 +1,26 @@
+html {
+    background-color: #D7B49E;
+    color: #555;
+
+    font-family: "Playfair Display", sans-serif;
+}
+
+body {
+    width: 600;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 30px;
+}
+
+h3 {
+    margin-top: 50px;
+}
+
+p {
+    font-size: 18px;
+}
